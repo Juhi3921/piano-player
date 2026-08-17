@@ -3,6 +3,7 @@ Piano Player
 A simple browser based piano player that lets you play piano notes using your computer keyboard.
 
 ##Features
+
 Play piano notes using keyboard keys
 
 White keys use letters like A S D F G H J K L
